@@ -1,0 +1,5 @@
+# Copy to .runtime/db.properties, then fill in your SQL Server login.
+# Java properties: use forward slashes in paths; escape literal backslashes as \\.
+DB_URL=jdbc:sqlserver://localhost:1433;databaseName=Baitap12;encrypt=true;trustServerCertificate=true;loginTimeout=5
+DB_USER=baitap12_app
+DB_PASSWORD=REPLACE_WITH_YOUR_SQL_LOGIN_PASSWORD

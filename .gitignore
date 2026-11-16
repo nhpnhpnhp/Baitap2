@@ -1,0 +1,6 @@
+target/
+.runtime/
+*.log
+__pycache__/
+*.pyc
+Baitap1.1_NopBai.zip
